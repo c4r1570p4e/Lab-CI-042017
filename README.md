@@ -53,7 +53,7 @@ Now we want to industrialize the deployment part. We will use a Jenkins pipeline
 
 1. Fork the Github project.
 
-2. Go to [Jenkins](http://jenkins-primary.jenkins.traefik.tnt-labs.org) and add your Github token.
+2. Go to [Jenkins](http://jenkins-primary.jenkins.traefik.tnt-labs.org) and add your Github token (genereted ising Github profile settings).
 ![](images/token.png?raw=true)
 
 3. Now create a new Multibranch Pipeline project called `test-XXX-CI`
